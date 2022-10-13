@@ -1,15 +1,15 @@
 {
 
-"SWII_DATA": 
+"GAME_DATA": 
 {
- "SWII_mod_name": "", 
- "SWII_mod_swf_url": ""
+ "GAME_name": "", 
+ "GAME_swf_url": ""
 },
 
 "WEB_DATA":
 {
-    "mod_creator_discord_profile_id": "",
-    "mod_web_custom_url": ""
+    "creator_website": "",
+    "web_custom_url": ""
 }
 
 } 
